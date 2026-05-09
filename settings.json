@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "argamesaurus.aternos.me:18412",
+    "ip": "argamesaurus.aternos.me",
     "port": 18412,
     "version": "",
     "try-creative": false
